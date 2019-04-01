@@ -1,0 +1,14 @@
+F:\.NET Framework\GL_tt\GL_tt\bin\Release\GL_tt.exe.config
+F:\.NET Framework\GL_tt\GL_tt\bin\Release\GL_tt.exe
+F:\.NET Framework\GL_tt\GL_tt\bin\Release\GL_tt.pdb
+F:\.NET Framework\GL_tt\GL_tt\bin\Release\Newtonsoft.Json.dll
+F:\.NET Framework\GL_tt\GL_tt\bin\Release\Newtonsoft.Json.pdb
+F:\.NET Framework\GL_tt\GL_tt\bin\Release\Newtonsoft.Json.xml
+F:\.NET Framework\GL_tt\GL_tt\obj\Release\GL_tt.csprojAssemblyReference.cache
+F:\.NET Framework\GL_tt\GL_tt\obj\Release\GL_tt.Form1.resources
+F:\.NET Framework\GL_tt\GL_tt\obj\Release\GL_tt.Properties.Resources.resources
+F:\.NET Framework\GL_tt\GL_tt\obj\Release\GL_tt.csproj.GenerateResource.cache
+F:\.NET Framework\GL_tt\GL_tt\obj\Release\GL_tt.csproj.CoreCompileInputs.cache
+F:\.NET Framework\GL_tt\GL_tt\obj\Release\GL_tt.csproj.CopyComplete
+F:\.NET Framework\GL_tt\GL_tt\obj\Release\GL_tt.exe
+F:\.NET Framework\GL_tt\GL_tt\obj\Release\GL_tt.pdb
